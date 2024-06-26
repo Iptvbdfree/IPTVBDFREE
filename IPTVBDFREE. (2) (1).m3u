@@ -44,3 +44,7 @@ https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 http://xtv.ooo:8080/live/Opplexasdff/2272200/307079.m3u8
 #EXTINF:-1,HOLLYWOOD MOVIES 24/7
 http://xtv.ooo:8080/live/Opplexasdff/2272200/263421.m3u8
+#EXTINF:-1, ZEE BANGLA LOW QUALITY 
+http://tm-tl-ml.cloud.xxx-cdn.org:8372/8be1228d28529b58bcb9b83a29ca6b184b75be709921135e356719fb19a0/index.m3u8?token=28bed16
+
+
