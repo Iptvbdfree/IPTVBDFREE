@@ -42,3 +42,5 @@ https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="24/7 MOTU PATLU" tvg-name="Channel 1" group-title="KIDS", 24/7 MOTU PATLU
 http://xtv.ooo:8080/live/Opplexasdff/2272200/307079.m3u8
+#EXTINF:-1,HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/live/Opplexasdff/2272200/263421.m3u8
