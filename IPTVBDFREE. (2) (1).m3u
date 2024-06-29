@@ -1,67 +1,269 @@
 #EXTM3U
 #EXTINF:-1,DISCOVERY
 http://xtv.ooo:8080/Opplexasdff/2272200/245966
+
+
 #EXTINF:-1, DISCOVERY HD [MULTI]
 http://accessible-warming-saver-burner.trycloudflare.com/app/live.php?id=573&e=.m3u
+
+
 #EXTINF:-1,SONY AATH
 http://xtv.ooo:8080/Opplexasdff/2272200/245989
+
+
 #EXTINF:-1, ZEE BANGLA HD [MULTI]
 http://accessible-warming-saver-burner.trycloudflare.com/app/live.php?id=1977&e=.m3u
+
+
 #EXTINF:-1,ZEE BANGLA
 http://xtv.ooo:8080/live/Opplexasdff/2272200/245893.m3u8
+
+
 #EXTINF:-1,STAR MOVIES SELECT HD 
 http://xtv.ooo:8080/live/Opplexasdff/2272200/66315.ts
+
+
 #EXTINF:-1,STAR MOVIES HD
 http://xtv.ooo:8080/live/Opplexasdff/2272200/353002.ts
+
+
 #EXTINF:-1,EKATTOR TV HD
 http://xtv.ooo:8080/Opplexasdff/2272200/245915
+
+
 #EXTINF:-1,SOMOY TV
 http://xtv.ooo:8080/Opplexasdff/2272200/245925
+
+
 #EXTINF:-1,ATN BANGLA
 http://xtv.ooo:8080/Opplexasdff/2272200/246010
+
+
 #EXTINF:-1,COLORS BANGLA
 http://xtv.ooo:8080/Opplexasdff/2272200/245895
+
+
 #EXTINF:-1,GAZI TV
 http://xtv.ooo:8080/Opplexasdff/2272200/245901
+
+
 #EXTINF:-1,DEEPTO TV
 http://xtv.ooo:8080/Opplexasdff/2272200/245927
+
+
 #EXTINF:-1,STAR JALSHA
 http://xtv.ooo:8080/Opplexasdff/2272200/245898
+
+
 #EXTINF:-1,ASTRO CRICKET
 http://xtv.ooo:8080/Opplexasdff/2272200/167581
+
+
 #EXTINF:-1, WILLOW CRICKET
 http://xtv.ooo:8080/Opplexasdff/2272200/167583
+
+
 #EXTINF:-1, STAR SPORTS HINDI
 http://xtv.ooo:8080/Opplexasdff/2272200/167573
+
+
 #EXTINF:-1, 9XM MUSIC
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/9XM-audio_208482_und=208000-video=2137600.m3u8
+
+
 #EXTINF:-1, 9X TAHSAN 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
+
+
 #EXTINF:-1, BOISHAKHI TV 
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/live-orgin/boishakhitv-org.stream/chunks.m3u
+
+
 #EXTINF:-1, ZEE MARATHI 
 http://103.120.172.74:1040/
+
+
 #EXTINF:-1, 9XM JHAKKAS
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
+
+
 #EXTINF:-1, ANIMAL PLANET
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+
+
 #EXTM3U
 #EXTINF:-1 tvg-id="24/6 MOTU PATLU" tvg-name="Channel 1" group-title="KIDS", 24/7 MOTU PATLU
 http://xtv.ooo:8080/live/Opplexasdff/2272200/307079.m3u8
+
+
 #EXTINF:-1,HOLLYWOOD MOVIES 24/7
 http://xtv.ooo:8080/live/Opplexasdff/2272200/263421.m3u8
+
+
+
+
 #EXTINF:-1, ZEE BANGLA LOW QUALITY 
 http://accessible-warming-saver-burner.trycloudflare.com/app/live.php?id=625&e=.m3u
+
+
 #EXTINF:-1, TRAVELXP
 https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
+
+
 #EXTINF:-1, COLOURS HD
 http://xtv.ooo:8080/live/Opplexasdff/2272200/66167.ts
+
+
 #EXTINF:-1, STAR BHARAT HD 
 http://xtv.ooo:8080/live/Opplexasdff/2272200/66171.ts
+
+
 
 #EXTINF:-1 group-title="Group " tvg-logo="https://i.imgur.com/OcBylY2.jpg", Channel Name
 http://xtv.ooo:8080/live/Opplexasdff/2272200/66167.ts
 
 
+
+
+
+#EXTINF:-1        group-title="Star Channels",Star Plus
+http://example.com/stream/starplus
+
+
+#EXTINF:-1        group-title="Star Channels",Star Jalsha (Bengali)
+http://example.com/stream/starjalsha
+
+
+#EXTINF:-1        group-title="Star Channels",Star Gold
+http://example.com/stream/stargold
+
+
+#EXTINF:-1        group-title="Star Channels",Star Movies
+http://example.com/stream/starmovies
+
+
+#EXTINF:-1        group-title="Star Channels",Star Sports 1
+http://example.com/stream/starsports1
+
+
+#EXTINF:-1        group-title="Star Channels",Star Sports 2
+http://example.com/stream/starsports2
+
+
+#EXTINF:-1        group-title="Star Channels",Star Sports 3
+http://example.com/stream/starsports3
+
+
+#EXTINF:-1        group-title="Star Channels",Star Sports Select 1
+http://example.com/stream/starsportsselect1
+
+
+#EXTINF:-1        group-title="Star Channels",Star Sports Select 2
+http://example.com/stream/starsportsselect2
+
+
+#EXTINF:-1        group-title="Star Channels",Star Sports 1 Hindi
+http://example.com/stream/starsports1hindi
+
+
+#EXTINF:-1        group-title="Star Channels",Jalsha Movies (Bengali)
+http://example.com/stream/jalshamovies
+
+
+#EXTINF:-1        group-title="Star Channels",National Geographic Channel (Nat Geo)
+http://example.com/stream/natgeochannel
+
+
+#EXTINF:-1        group-title="Star Channels",Nat Geo Wild
+http://example.com/stream/natgeowild
+
+
+
+
+
+
+
+
+
+#EXTINF:-1    group-title="Cartoon Channels",Cartoon Network
+http://example.com/stream/cartoonnetwork
+
+
+#EXTINF:-1    group-title="Cartoon Channels",Nickelodeon India
+http://example.com/stream/nickindia
+
+
+#EXTINF:-1    group-title="Cartoon Channels",Disney Channel
+http://example.com/stream/disneychannel
+
+
+#EXTINF:-1    group-title="Cartoon Channels",Disney XD
+http://example.com/stream/disneyxd
+
+
+#EXTINF:-1    group-title="Cartoon Channels",Hungama TV
+http://example.com/stream/hungamatv
+
+
+#EXTINF:-1    group-title="Cartoon Channels",Pogo
+http://example.com/stream/pogo
+
+
+#EXTINF:-1    group-title="Cartoon Channels",Sonic Nickelodeon
+http://example.com/stream/sonicnickelodeon
+
+
+#EXTINF:-1    group-title="Cartoon Channels",Discovery Kids
+http://example.com/stream/discoverykids
+
+
+#EXTINF:-1    group-title="Cartoon Channels",Sony Yay!
+http://example.com/stream/sonyyay
+
+
+
+
+
+
+
+
+#EXTINF:-1    group-title="Movie Channels",Star Gold
+http://example.com/stream/stargold
+
+
+#EXTINF:-1    group-title="Movie Channels",Star Movies
+http://example.com/stream/starmovies
+
+
+#EXTINF:-1    group-title="Movie Channels",Zee Cinema
+http://example.com/stream/zeecinema
+
+
+#EXTINF:-1    group-title="Movie Channels",Sony Max
+http://example.com/stream/sonymax
+
+
+#EXTINF:-1    group-title="Movie Channels",&pictures
+http://example.com/stream/andpictures
+
+
+#EXTINF:-1    group-title="Movie Channels",Colors Cineplex
+http://example.com/stream/colorscineplex
+
+
+#EXTINF:-1    group-title="Movie Channels",UTV Movies
+http://example.com/stream/utvmovies
+
+
+#EXTINF:-1    group-title="Movie Channels",Movies Now
+http://example.com/stream/moviesnow
+
+
+#EXTINF:-1    group-title="Movie Channels",Filmy
+http://example.com/stream/filmy
+
+
+#EXTINF:-1    group-title="Movie Channels",Zee Action
+http://example.com/stream/zeeaction
 
 
