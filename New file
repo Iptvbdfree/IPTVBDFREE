@@ -1,6 +1,7 @@
-#EXTINF:-1 tvg-name=""
-tvg-id=""
-group-title=""
+#EXTM3U
+#EXTINF:-1, tvg-name="STAR MOVIES"
+tvg-id="STAR MOVIES"
+group-title="ENGLISH"
 tvg-logo=""
-channel_name=""
-stream_link=""
+channel_name="STAR MOVIES"
+stream_link="http://xtv.ooo:8080/live/Opplexasdff/2272200/66315.ts"
