@@ -1,5 +1,2 @@
-#EXTINF:-1 tvg-id="star movies" group-title="kids"
-tvg-logo=""
-channel_name="star movies"
-stream_link="http://xtv.ooo:8080/Opplexasdff/2272200/167573"
+#EXTINF:-1, star movies http://xtv.ooo:8080/Opplexasdff/2272200/167573
 
