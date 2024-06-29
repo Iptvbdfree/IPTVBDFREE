@@ -65,5 +65,6 @@ group-title="12"
 tvg-logo=""
 channel_name="STAR"
 stream_link="http://xtv.ooo:8080/live/Opplexasdff/2272200/66315.ts"
-
+#EXTINF:-1, STAR
+http://xtv.ooo:8080/live/Opplexasdff/2272200/66315.ts
 
