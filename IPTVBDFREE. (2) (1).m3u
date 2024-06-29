@@ -133,7 +133,7 @@ https://youtu.be/izGwDsrQ1eQ?feature=shared
 http://example.com/stream/starjalsha
 
 
-#EXTINF:-1        group-title="Star Channels" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries%2Findia%2Fzee-tv-in.png" Star Gold,
+#EXTINF:-1        group-title="Star Channels" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries%2Findia%2Fzee-tv-in.png",Star Gold
 http://example.com/stream/stargold
 
 
