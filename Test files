@@ -1,4 +1,5 @@
 #EXTM3U
 #EXTINF:-1, star movies
  http://xtv.ooo:8080/Opplexasdff/2272200/167573
-
+#EXTINF:-1 tvg-id="24/7 MOTU PATLU" tvg-name="Channel 1" group-title="KIDS" tvg-logo="http://example.com/channel1-logo.png"
+http://xtv.ooo:8080/live/Opplexasdff/2272200/307079.m3u8
