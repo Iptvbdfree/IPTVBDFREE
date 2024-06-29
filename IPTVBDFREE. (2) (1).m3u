@@ -57,7 +57,7 @@ https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1, COLOURS HD
 http://xtv.ooo:8080/live/Opplexasdff/2272200/66167.ts
 
-#EXTINF:-1 group-title="Group " tvg-logo="https://i.imgur.com/OcBylY2.jpg, Channel Name
+#EXTINF:-1 group-title="Group " tvg-logo="https://i.imgur.com/OcBylY2.jpg", Channel Name
 http://xtv.ooo:8080/live/Opplexasdff/2272200/66167.ts
 
 
