@@ -59,9 +59,9 @@ http://accessible-warming-saver-burner.trycloudflare.com/app/live.php?id=144&e=.
 #EXTINF:-1, STAR BHARAT HD
 http://xtv.ooo:8080/live/Opplexasdff/2272200/221255.ts
 #EXTM3U
-#EXTINF:-1
-group-title="star"
-tvg-logo=""
-channel_name="sat"
+#EXTINF:-1,
+group-title="star",
+tvg-logo="",
+channel_name="sat",
 stream_link="http://xtv.ooo:8080/live/Opplexasdff/2272200/66315.ts"
 
