@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,DISCOVERY
+#EXTINF:-1 group-title ="star" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/sony-pix-in.png", Discovery 
 http://xtv.ooo:8080/Opplexasdff/2272200/245966
 
 
